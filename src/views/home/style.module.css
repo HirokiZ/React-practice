@@ -1,0 +1,9 @@
+.panel{
+    height:300px;
+}
+.mb{
+    margin-bottom: 0;
+}
+.y{
+    overflow-y: scroll;
+}
